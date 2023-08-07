@@ -6,7 +6,7 @@
  * Description:       Wordfence Security Plugin Activator
  * Version:           1.1.0
  * Requires at least: 3.9
- * Requires PHP:      7.0
+ * Requires PHP:      7.1
  * Author:            mohamedhk2
  * Author URI:        https://github.com/mohamedhk2
  **/
